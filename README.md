@@ -13,16 +13,29 @@
 项目集成功能
 
 刷新控件 (MJRefresh)
+
 网络请求是基于AFNetworking的封装,轻量且强大(XMNetworking)
+
 JSON 模型框架(YYModel)
+
 富文本框架(YYText )
+
 封装QQ/微信/新浪微博分享功能
+
 自定义弹窗、自定义ActionSheet、自定义PickerView
+
 列表无数据或者无网络时的占位视图
+
 对SVProgressHUD进行二次封装
+
 增加进入APP时的广告页
+
 增加第一次进入APP时的引导页面
+
 增加页面加载数据时的等待界面
+
 增加搜索界面
+
 增加图片选择器
+
 增加图片浏览器
